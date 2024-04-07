@@ -6,7 +6,6 @@ I'm a Software Engineer with a passion for building scalable and robust web appl
 
 - Working on Emergency Connect project, a mobile communication platform for citizens and emergency responders
 - Participating in the Azure Developer Challenge to enhance my skills in Azure cloud technologies
-- Preparing for the Azure Developer Associate certification exam
 - Exploring RAG projects using Large Language Models (LLMs) and Langchain
 - Contributing to open-source projects and exploring new technologies
 
@@ -71,7 +70,8 @@ I'm a Software Engineer with a passion for building scalable and robust web appl
 
 ## 🏆 Certifications
 
-- AWS Certified Solutions Architect – Associate (Mar 2024)
+- AWS Certified Solutions Architect – Associate [Certificate](https://www.credly.com/badges/616003cd-7970-4b8d-81ef-bf78cfe16143/public_url)
+- Microsoft Certified: Azure Developer Associate [Certificate](https://learn.microsoft.com/en-us/users/ojaskapre/credentials/63584507b7bd09d3)
 
 ## 🚀 Projects
 
