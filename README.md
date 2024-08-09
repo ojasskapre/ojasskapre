@@ -73,7 +73,7 @@ I'm a Software Engineer with a passion for building scalable and robust web appl
 
 ## 📫 How to reach me
 
-- Email: ojaskapre@cmu.edu
+- Email: ojasskapre@gmail.com
 - LinkedIn: [Ojas Kapre](https://www.linkedin.com/in/ojasskapre/)
 - GitHub (Personal): [ojasskapre](https://github.com/ojasskapre/)
 - GitHub (Academic): [okapreS2023](https://github.com/okapreS2023/)
