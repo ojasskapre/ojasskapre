@@ -2,18 +2,6 @@
 
 I'm a Software Engineer with a passion for building scalable and robust web applications. I recently graduated with a Master's degree in Software Engineering from Carnegie Mellon University and have experience working with a wide range of technologies including React.js, Node.js, Python, AWS, Azure, Kubernetes, Docker and more.
 
-## 🔭 What I'm currently working on
-
-- Working on Emergency Connect project, a mobile communication platform for citizens and emergency responders
-- Participating in the Azure Developer Challenge to enhance my skills in Azure cloud technologies
-- Exploring RAG projects using Large Language Models (LLMs) and Langchain
-- Contributing to open-source projects and exploring new technologies
-
-## 🌱 What I'm currently learning
-
-- RAG using LLMs and Langchain
-- Terraform for infrastructure as code
-
 ## 🔧 Technologies & Tools
 
 #### 💻 Programming Languages
@@ -75,6 +63,7 @@ I'm a Software Engineer with a passion for building scalable and robust web appl
 
 ## 🚀 Projects
 
+- **Yahoo Finance LLm Agent**: Streamlit application that uses OpenAI Functions, Langchain Agent and Yahoo Finance to provide real-time financial data and insights through an interactive chat interface.
 - **Emergency Connect**: Mobile communication platform for citizens and emergency responders
 - **Big Data Processing Toolbox Microservices**: Microservice-based application for seamless access to big data tools
 - **Mockly**: Peer-to-peer interview application with microservice architecture
