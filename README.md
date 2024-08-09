@@ -63,12 +63,12 @@ I'm a Software Engineer with a passion for building scalable and robust web appl
 
 ## 🚀 Projects
 
-- **Yahoo Finance LLm Agent**: Streamlit application that uses OpenAI Functions, Langchain Agent and Yahoo Finance to provide real-time financial data and insights through an interactive chat interface.
+- **[Yahoo Finance LLM Agent](https://github.com/ojasskapre/yahoo-finance-llm-agent)**: Streamlit application that uses OpenAI Functions, Langchain Agent and Yahoo Finance to provide real-time financial data and insights through an interactive chat interface.
 - **Emergency Connect**: Mobile communication platform for citizens and emergency responders
 - **Big Data Processing Toolbox Microservices**: Microservice-based application for seamless access to big data tools
 - **Mockly**: Peer-to-peer interview application with microservice architecture
 - **Emergency Social Network**: Mobile communication platform for citizens during emergencies
-- **GPTx**: Chrome extension integrating ChatGPT responses into Google search results (2,000+ active users)
+- **[GPTx](https://github.com/sarveshkapre/gptx)**: Chrome extension integrating ChatGPT responses into Google search results (2,000+ active users)
 - **Virtual Proctor**: Android app for secure parent-teacher communication (Winner of UnScript 2k19 Hackathon)
 
 ## 📫 How to reach me
