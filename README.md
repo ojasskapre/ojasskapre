@@ -63,6 +63,7 @@ I'm a Software Engineer with a passion for building scalable and robust web appl
 
 ## 🚀 Projects
 
+- **[Football Player Ratings](https://github.com/ojasskapre/player-ratings)**: Next.js + Supabase application that allows football fans to provide ratings to players for their favorite football team
 - **[Yahoo Finance LLM Agent](https://github.com/ojasskapre/yahoo-finance-llm-agent)**: Streamlit application that uses OpenAI Functions, Langchain Agent and Yahoo Finance to provide real-time financial data and insights through an interactive chat interface.
 - **Emergency Connect**: Mobile communication platform for citizens and emergency responders
 - **Big Data Processing Toolbox Microservices**: Microservice-based application for seamless access to big data tools
